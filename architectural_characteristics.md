@@ -7,7 +7,7 @@ Like any startup, we are open to new ideas and opportunities
 We might add or remove features often
 We might partner with other organisations
 Our features will need to be accurate as well as accessible - otherwise we might face user attrition
-As a startup, they are constrained on the budget
+As a startup, we are constrained on the budget
 
 ## Characteristics
 
