@@ -22,4 +22,8 @@ Availablity:
 
 Resilience:
 
-Interoperability: Ability to work with other systems as required 
+Interoperability: Ability to work with other systems as required
+
+Deployability:
+
+Testability:  
