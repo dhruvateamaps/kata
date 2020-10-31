@@ -1,7 +1,7 @@
 # This file contains the various components and their responsibilities
 
 ## Component
-User Interface
+### User Interface
 
 ### Responsibilities
 Provides interactive session to the users to communicate with Farmacy Foods  
@@ -20,7 +20,7 @@ Enables proxy pickup by providing a user code
 
 
 ## Component
-Inventory
+### Inventory
 
 ### Responsibilities
 Handles inventory tracking and enables replenishment of low stock by notifying Kitchen and Ops staff through Cheftec  
@@ -30,7 +30,7 @@ Uses Internal Smart Fridge component APIs to pull the information for inventory 
 
 
 ## Component
-Sales and payments  
+### Sales and payments  
 
 ### Responsibilities
 Handles payment received events  
@@ -40,14 +40,14 @@ Handles refund events
 
 
 ## Component
-Diet Advisor  
+### Diet Advisor  
 
 ### Responsibilities
 Provides diet plans based on health, goals and personal goals  
 
 
 ## Component
-Fridge Communicator  
+### Fridge Communicator  
 
 ### Responsibilities
 Communicates with the network of smart fridges to gather inventory and purchase data  
@@ -56,7 +56,7 @@ Enables notifying vendor for maintainence and lifecycle
 
 
 ## Component
-Customer profile  
+### Customer profile  
 
 ### Responsibilities
 Creates new user profile  
@@ -69,21 +69,21 @@ Integrate with lifestyle devioces like smartwatches to consume health informatio
 
 
 ##  Component
-Loyalty program  
+### Loyalty program  
 
 ### Responsibilities
 Creates special offers for existing customers based on usage  
 
 
 ## Component
-Notifications  
+### Notifications  
 
 ### Responsibilities
 Handles end-to-end notifications for all external entities (SMS, Push, Email)  
 
 
 ## Component
-Monitoring and logging  
+### Monitoring and logging  
 
 ### Responsibilities
 Enables monitoring across the application based on generated events  
