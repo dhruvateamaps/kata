@@ -1,7 +1,7 @@
 # This file contains the various components and their responsibilities
 
-## Component
-### User Interface
+
+## User Interface
 
 #### Responsibilities
 Provides interactive session to the users to communicate with Farmacy Foods  
@@ -19,8 +19,8 @@ Enable feedback capturing post customer consuming the meal through notifications
 Enables proxy pickup by providing a user code  
 
 
-## Component
-### Inventory
+
+## Inventory
 
 #### Responsibilities
 Handles inventory tracking and enables replenishment of low stock by notifying Kitchen and Ops staff through Cheftec  
@@ -29,8 +29,8 @@ Uses notification service to communicate replenishement requirements for the fri
 Uses Internal Smart Fridge component APIs to pull the information for inventory and captures in data store  
 
 
-## Component
-### Sales and payments  
+
+## Sales and payments  
 
 #### Responsibilities
 Handles payment received events  
@@ -39,15 +39,15 @@ Interfaces with the Cheftec financial system for accounts
 Handles refund events  
 
 
-## Component
-### Diet Advisor  
+
+## Diet Advisor  
 
 #### Responsibilities
 Provides diet plans based on health, goals and personal goals  
 
 
-## Component
-### Fridge Communicator  
+
+## Fridge Communicator  
 
 #### Responsibilities
 Communicates with the network of smart fridges to gather inventory and purchase data  
@@ -55,8 +55,8 @@ Enables adding new fridge details upon fridge installation
 Enables notifying vendor for maintainence and lifecycle  
 
 
-## Component
-### Customer profile  
+
+## Customer profile  
 
 #### Responsibilities
 Creates new user profile  
@@ -68,22 +68,22 @@ Integrates with identity providers like Facebook, Gmail etc
 Integrate with lifestyle devioces like smartwatches to consume health information  
 
 
-##  Component
-### Loyalty program  
+
+## Loyalty program  
 
 #### Responsibilities
 Creates special offers for existing customers based on usage  
 
 
-## Component
-### Notifications  
+
+## Notifications  
 
 #### Responsibilities
 Handles end-to-end notifications for all external entities (SMS, Push, Email)  
 
 
-## Component
-### Monitoring and logging  
+
+## Monitoring and logging  
 
 #### Responsibilities
 Enables monitoring across the application based on generated events  
