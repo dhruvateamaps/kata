@@ -16,22 +16,22 @@ As a startup, we are constrained on the budget
 
 ## Characteristics
 
-Scalability: 
+Scalability: Ability to handle increase in number of users and user requests due to business growth and expansion
 
 Modularity: Ability to add new features based on new business ideas and opportunities
 
-Usability: 
+Usability: Capacity of the system to provide conditions to perform tasks efficiently and effectively while enjoying the process
 
 Reliablity: 
 
 Availablity: 
 
-Resilience:
+Resilience: Ability to recover from failures
 
 Interoperability: Ability to work with other systems as required
 
-Deployability:
+Deployability: Ability to handle frequent upgrades
 
-Testability: 
+Testability: Ability and ease of performing integration and functional level tests as well as test new components
 
-Affordability: 
+Affordability: Ability to provide features that are cost-justificable
