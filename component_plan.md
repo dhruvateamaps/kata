@@ -4,8 +4,8 @@
 ## User Interface
 
 #### Responsibilities
-- Provides interactive session to the users to communicate with Farmacy Foods  
-- Means for the user to find closest fridges  
+- Provides interactive session to the users to communicate with Farmacy Foods
+- Means for the user to find closest fridges
 Calculates closest fridge to user  
 Functionality to key in information like health, goals, payment  
 Communicates with Smart Fridge module to get active fridge locations  
