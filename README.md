@@ -10,4 +10,4 @@ This file contains the business background and expected architectural characteri
 Next, please navigate to the "component_plan.md" file  
 This file contains the list of components and their respective responsibilities
 
-All Architectural Design Records are stored in files starting with adr_
+All Architecture Design Records are stored in files starting with adr_
