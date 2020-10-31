@@ -3,7 +3,7 @@
 ## Component
 ### User Interface
 
-### Responsibilities
+#### Responsibilities
 Provides interactive session to the users to communicate with Farmacy Foods  
 Means for the user to find closest fridges  
 Calculates closest fridge to user  
@@ -22,7 +22,7 @@ Enables proxy pickup by providing a user code
 ## Component
 ### Inventory
 
-### Responsibilities
+#### Responsibilities
 Handles inventory tracking and enables replenishment of low stock by notifying Kitchen and Ops staff through Cheftec  
 Handles inventory replenishment of stock older than 3 days by notifying Kitchen and Ops staff through Cheftec  
 Uses notification service to communicate replenishement requirements for the fridge  
@@ -32,7 +32,7 @@ Uses Internal Smart Fridge component APIs to pull the information for inventory 
 ## Component
 ### Sales and payments  
 
-### Responsibilities
+#### Responsibilities
 Handles payment received events  
 Captures purchase activity across the network of fridges and Kiosks  
 Interfaces with the Cheftec financial system for accounts  
@@ -42,14 +42,14 @@ Handles refund events
 ## Component
 ### Diet Advisor  
 
-### Responsibilities
+#### Responsibilities
 Provides diet plans based on health, goals and personal goals  
 
 
 ## Component
 ### Fridge Communicator  
 
-### Responsibilities
+#### Responsibilities
 Communicates with the network of smart fridges to gather inventory and purchase data  
 Enables adding new fridge details upon fridge installation  
 Enables notifying vendor for maintainence and lifecycle  
@@ -58,7 +58,7 @@ Enables notifying vendor for maintainence and lifecycle
 ## Component
 ### Customer profile  
 
-### Responsibilities
+#### Responsibilities
 Creates new user profile  
 Collects and stores PHI information  
 Collects and stores Personal health goals  
@@ -71,21 +71,21 @@ Integrate with lifestyle devioces like smartwatches to consume health informatio
 ##  Component
 ### Loyalty program  
 
-### Responsibilities
+#### Responsibilities
 Creates special offers for existing customers based on usage  
 
 
 ## Component
 ### Notifications  
 
-### Responsibilities
+#### Responsibilities
 Handles end-to-end notifications for all external entities (SMS, Push, Email)  
 
 
 ## Component
 ### Monitoring and logging  
 
-### Responsibilities
+#### Responsibilities
 Enables monitoring across the application based on generated events  
 Generates IT events for all the components, modules and infrastructure and stores locally  
 Handles log rotation based on configuration  
