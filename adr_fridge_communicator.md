@@ -1,5 +1,4 @@
-# Title
-Use of a separate component to communicate with smart fridge network
+# Use of a separate component to communicate with smart fridge network
 
 ## Status
 accepted
