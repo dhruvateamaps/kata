@@ -1,4 +1,4 @@
-#This file contains the various components and their responsibilities
+# This file contains the various components and their responsibilities
 
 ## Component
 User Interface
