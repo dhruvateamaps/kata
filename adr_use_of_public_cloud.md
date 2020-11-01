@@ -10,8 +10,11 @@ The application can be hosted on either on-prem or public cloud infrastructure
 
 
 ## Decision
+
+### Design decision
 We will use public cloud to host the application
 
+### Design Justification
 As a startup, Farmacy Foods is expecting an increase in users as well as geagraphical business expansion
 Public cloud enables handling of such increases in capacity requirements
 
