@@ -12,4 +12,4 @@ This file contains the list of components and their respective responsibilities
 
 All Architecture Design Records are stored in files starting with adr_
 
-Please refer ARCHITECHTURE_DIAGRAM_ver2.png for a diagramatic representation of the various components and their interfaces
+Please refer ARCHITECHTURE_DIAGRAM.png for a diagramatic representation of the various components and their interfaces
