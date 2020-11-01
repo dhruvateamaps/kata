@@ -1,6 +1,6 @@
 # Architecture Katas
 
-Submission for the "Archicture Katas" O'Reilly event by team Dhruva
+Submission for the "Architecture Katas" O'Reilly event by team Dhruva
 
 ## Repo contents
 
