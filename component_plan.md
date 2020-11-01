@@ -30,7 +30,7 @@
 
 
 
-## Sales and payments
+## Sales and purchases
 
 #### Responsibilities
 - Handles payment received events
